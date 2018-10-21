@@ -1,0 +1,70 @@
+{
+    "transaction_reference": "940A120829",
+    "account_identification": "1526.89.184EUR",
+    "statement_number": "00000",
+    "sequence_number": "00",
+    "final_opening_balance": null,
+    "final_closing_balance": null,
+    "transactions": [
+        {
+            "status": "D",
+            "funds_code": null,
+            "amount": null,
+            "id": "N044",
+            "customer_reference": "0121470966      ",
+            "bank_reference": null,
+            "extra_details": "W.P. Jansen",
+            "currency": "EUR",
+            "date": null,
+            "transaction_details": "Terugboeking\nNIET AKKOORD MET AFSCHRIJVING\nKOSTEN KINDEROPVANG JUNI\n20095731"
+        },
+        {
+            "status": "D",
+            "funds_code": null,
+            "amount": null,
+            "id": "N060",
+            "customer_reference": "0733959555      ",
+            "bank_reference": null,
+            "extra_details": "T-MOBILE NETHERLANDS BV",
+            "currency": "EUR",
+            "date": null,
+            "transaction_details": "BETALINGSKENM.  123456789\nFACTUURNUMMER 987654321"
+        },
+        {
+            "status": "D",
+            "funds_code": null,
+            "amount": null,
+            "id": "N030",
+            "customer_reference": "NONREF          ",
+            "bank_reference": null,
+            "extra_details": "TOMTE TUMMETOT AMERSFOORT",
+            "currency": "EUR",
+            "date": null,
+            "transaction_details": "Betaalautomaat 14:23 pasnr. 065"
+        },
+        {
+            "status": "D",
+            "funds_code": null,
+            "amount": null,
+            "id": "N060",
+            "customer_reference": "P000029225      ",
+            "bank_reference": null,
+            "extra_details": "KPN - MOBIEL",
+            "currency": "EUR",
+            "date": null,
+            "transaction_details": "BETALINGSKENM.  173787046000009\nFACTUUR * 173787046 000009\nZIE REKENING OP KPN.COM OF HI.NL\nKPN - MOBIEL"
+        },
+        {
+            "status": "D",
+            "funds_code": null,
+            "amount": null,
+            "id": "NMSC",
+            "customer_reference": "P000029225      ",
+            "bank_reference": null,
+            "extra_details": "NS-Utrecht C. 117 UTRECHT",
+            "currency": "EUR",
+            "date": null,
+            "transaction_details": "Betaalautomaat 08:22 pasnr. 001"
+        }
+    ]
+}
