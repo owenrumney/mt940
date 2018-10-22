@@ -8,7 +8,7 @@ def create_json(line, headers):
     data = {}
     row = line.rstrip().split(',')
     for i, header in enumerate(headers):
-        data[headers[i]] = row[i]
+        data[header] = row[i]
     return json.dumps(data)
 
 
