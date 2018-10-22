@@ -19,7 +19,7 @@ If you look in `vanilla.output` you can see that it just printed the json as exp
 This one uses spark and distribute the lines in the file to our multiple servers (not really) - in its simplest form, you submit it with spark submit
 
 ``` bash
-spark-submit spark.pyz
+spark-submit spark.py
 ```
 
 When you look at `spark.output` you can see a lot more info was written, but towards the bottom of the output you can see the json was written.
